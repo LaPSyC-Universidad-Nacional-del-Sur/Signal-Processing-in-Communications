@@ -1,5 +1,8 @@
 Procesamiento de Señales en Comunicaciones
-Programa
+
+El contenido general del curso es el siguiente:
+
+
 
 
 
