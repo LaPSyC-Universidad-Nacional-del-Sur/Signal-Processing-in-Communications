@@ -1,3 +1,0 @@
-####
-### Diseño de Distancia Mínima
-####
