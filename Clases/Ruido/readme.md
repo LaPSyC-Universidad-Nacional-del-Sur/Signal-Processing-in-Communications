@@ -1,3 +1,0 @@
-####
-### Desempeño en ruido
-####
