@@ -1,1 +1,0 @@
-#### Adaptive Filter Theory - Haykin
