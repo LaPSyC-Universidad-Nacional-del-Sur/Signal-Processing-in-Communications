@@ -1,1 +1,1 @@
-#### Referencias básicas del surco
+#### Referencias básicas del curso
