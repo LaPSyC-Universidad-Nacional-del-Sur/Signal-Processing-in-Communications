@@ -8,7 +8,7 @@
 #### Parte 3: Contenidos no cubiertos en el curso
 #
 ### Barry - Lee - Messerschmitt:
-#### Sigue contenidos muy similares al libro anterior. Como usa un estilo deiferente, será de lectura complementaria.
+#### Sigue contenidos muy similares al libro anterior. Como usa un estilo diferente, será de lectura complementaria.
 #
 ### ADT: Adaptive filter Theory - Haykin
 #### No es una referencia central del curso, pero si importante.
