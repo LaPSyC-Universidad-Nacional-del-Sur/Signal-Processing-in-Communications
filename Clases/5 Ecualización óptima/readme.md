@@ -1,0 +1,3 @@
+####
+### Ecualización óptima
+####
