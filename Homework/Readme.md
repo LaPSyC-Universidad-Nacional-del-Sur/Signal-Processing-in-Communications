@@ -6,5 +6,5 @@
 #### Capítulo 3 (revisión 2):  Problemas 1, 4, 5, 7, 12, 14, 15
 #### Capítulo 6 (modulación):  Problemas 3, 6, 8, 10, 11, 24, 25, 29
 #### Capítulo 7 (distancia mínima): Problemas 1, 7, 9, 10, 11
-####
+#### Capítulo 8 (Ruido):       Problemas 3, 4, 7, 8, 12, 15, 16
 ####
