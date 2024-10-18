@@ -7,5 +7,7 @@
 #### Capítulo 6 (modulación):  Problemas 3, 6, 8, 10, 11, 24, 25, 29
 #### Capítulo 7 (distancia mínima): Problemas 1, 7, 9, 10, 11
 #### Capítulo 8 (Ruido):       Problemas 3, 4, 7, 8, 12, 15, 16
-#### Capítulo 9 (Detección):   problemas 1, 5, 7, 9, 10, 16, 18
+#### Capítulo 9 (Detección):   Problemas 1, 5, 7, 9, 10, 16, 18
+#### Capítulo 10 (Ecualización): Problemas ...
+#### Capítulo 11 (Ec. adaptativa): Problemas ...
 ####
