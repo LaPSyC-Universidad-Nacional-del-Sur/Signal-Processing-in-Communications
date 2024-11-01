@@ -8,6 +8,18 @@
 #### Capítulo 7 (distancia mínima): Problemas 1, 7, 9, 10, 11
 #### Capítulo 8 (Ruido):       Problemas 3, 4, 7, 8, 12, 15, 16
 #### Capítulo 9 (Detección):   Problemas 1, 5, 7, 9, 10, 16, 18
-#### Capítulo 10 (Ecualización): Problemas ...
+#### Capítulo 10 (Ecualización): Problemas 3, 4, 5, 6, 7, 9
 #### Capítulo 11 (Ec. adaptativa): Problemas ...
+####
+####
+#### Monografía
+##### Formato: A definir
+####
+##### Temas: A definir ...
+####
+####
+####
+#### Plazos de entrega:
+##### Trabajos Prácticos: 31/12/2024
+##### Monografía: 15/02/2025
 ####
