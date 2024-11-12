@@ -13,7 +13,13 @@
 ####
 ####
 #### Monografía
-##### Formato: A definir
+##### El objetivo de la monografía es elaborar sobre una temática relacionada con extensiones de los contenidos del curso.
+##### Elaborar, en este caso, es explicar sintéticamente, tanto con esquemas como descripciones, las interpretaciones de aspectos de las temáticas propuestas.  
+##### Se brindará, como referencia, un artículo tutorial, aunque se espera que pueden consultar otras fuentes.
+#####
+#### Formato: La organización de la monografía debe contener las siguientes secciones: un resumen inicial (describiendo objetivos), una introducción (donde se sitúe la temática y se describan los contenidos de la monografía), el desarrollo del tema, las conclusiones.
+##### La extensión de la monografía no debe ser mayor a 6 páginas en pdf (en lo posible de doble columna generado en LaTex).
+#### Que se evalúa: objetividad y síntesis de contenidos, formato adecuado.
 ####
 ##### Temas: A definir ...
 ####
