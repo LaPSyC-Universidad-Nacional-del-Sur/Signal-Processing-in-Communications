@@ -9,7 +9,7 @@
 ##### Capítulo 8 (Ruido):       Problemas 3, 4, 7, 8, 12, 15, 16
 ##### Capítulo 9 (Detección):   Problemas 1, 5, 7, 9, 10, 16, 18
 ##### Capítulo 10 (Ecualización): Problemas 3, 4, 5, 6, 7, 9
-##### Capítulo 11 (Ec. adaptativa): Problemas ...
+##### Capítulo 11 (Ec. adaptativa): Problemas 1, 5, 12, 13, 17, 18
 ####
 ####
 #### Monografía
