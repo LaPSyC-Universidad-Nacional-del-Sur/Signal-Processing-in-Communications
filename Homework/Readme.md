@@ -25,7 +25,7 @@
 ####
 ####
 ####
-#### Plazos de entrega:
+#### Plazos de entrega (inscriptos en 2024):
 ##### Trabajos Prácticos: 31/12/2024
 ##### Monografía: marzo/abril 2025
 ####
