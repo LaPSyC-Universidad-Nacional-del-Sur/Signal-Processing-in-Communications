@@ -24,12 +24,12 @@
 ####
 ####
 #####
-#### Temas: A definir para cada alumno.
+#### Temas: A definir para cada alumno proximamente.
 ####
 ####
 ####
 ####
 #### Plazos de entrega (inscriptos en 2025):
-##### Trabajos Prácticos: 
-##### Monografía: 
+##### Trabajos Prácticos: 31 de diciembre 2025
+##### Monografía: 31 de marzo 2026
 ####
