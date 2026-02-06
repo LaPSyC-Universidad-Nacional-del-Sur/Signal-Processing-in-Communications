@@ -29,7 +29,7 @@
 ####
 ####
 ####
-#### Plazos de entrega (inscriptos en 2025):
-##### Trabajos Prácticos: 20 de febrero de 2026
-##### Monografía: 20 de febrero de 2026
+## Plazos de entrega (inscriptos en 2025):
+## Trabajos Prácticos: 20 de febrero de 2026
+## Monografía: 20 de febrero de 2026
 ####
