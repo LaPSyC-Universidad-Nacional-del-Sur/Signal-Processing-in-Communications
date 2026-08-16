@@ -22,7 +22,8 @@
 ##### Desarrollo del concepto, objetividad y síntesis de contenidos, simulaciones demostrativas (Matlab, Python) en contextos simples, formato adecuado.
 ####
 ####
-### Temas: A definir para cada alumno proximamente.
+### Temas: 
+##### A definir para cada alumno proximamente.
 ####
 ####
 ## Plazos de entrega:
