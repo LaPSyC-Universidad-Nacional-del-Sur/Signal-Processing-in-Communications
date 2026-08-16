@@ -27,6 +27,6 @@
 ####
 ####
 ## Plazos de entrega:
-### Trabajos Prácticos: 
-### Monografía: 
+#### Trabajos Prácticos: 
+#### Monografía: 
 ####
